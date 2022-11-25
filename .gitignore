@@ -1,0 +1,4 @@
+# ignore all audio files
+*.wav
+# ignore jar file
+*.jar
