@@ -1,4 +1,4 @@
-# Rendeirogame
+# Unescapable Room
 
 This project was created in code academy in java using the simpleGfx library with a group of four people.
 <p> The purpose  was to create a game. </p>
